@@ -1,0 +1,70 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<style>
+body {
+background-color: lightblue;
+}
+ 
+h1 {
+color: blue;
+text-align: center;
+font-family: Verdana;
+font-size: 50px;
+}
+ 
+p {
+font-family: verdana;
+font-size: 30px;
+}
+li{
+display:inline;
+float:left;
+}
+li a {
+display:block;
+color:blue;
+text-align:center;
+padding: 15px 16px;
+text-decoration:none;
+}
+li a:hover {
+background-color:burlywood;
+}
+p2 {
+font-family: verdana;
+font-size: 30px;
+}
+img {
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+ 
+</style>
+</head>
+ 
+<ul>
+<li><a href="Amsterdam.HTML">Introduzione</a></li>
+<li><a href="Geografia.HTML">Geografia</a></li>
+<li><a href="Economia.HTML">Economia</a></li>
+<li><a href="Storia.HTML">Storia</a></li>
+</ul><br>
+ 
+<title>Amsterdam</title>
+ 
+ 
+<h1>Geografia</h1>
+ 
+<p>Amsterdam si trova nella provincia dell'Olanda Settentrionale. Il fiume Amstel termina nel centro cittadino e si collega a un gran numero di canali che sfociano nel lago IJ, precedentemente una baia.
+Amsterdam si trova a 2 metri sotto il livello del mare. Ed è collegata al Mare del Nord attraverso il lungo Canale del Mare del Nord. Il terreno circostante è pianeggiante, in quanto è formato da grandi polder, cioè tratti di mare asciugati artificialmente. A sud-ovest della capitale si estende l'Amsterdamse Bos, uno dei parchi cittadini, insieme ai più centrali Vondelpark e Artis.
+La città è densamente popolata, come lo è la sua area metropolitana. Esteso su 219,4 km², il comune ha 4457 abitanti per km² e una densità abitativa di 2 275 case per km². I parchi e le riserve naturali rappresentano il 12% della superficie di Amsterdam.
+</p>
+<img src="amsterdam5.jpg" width="794" height="794"> <br>
+
+ 
+</Body>     1
+</html>
+ 
+    
+  
