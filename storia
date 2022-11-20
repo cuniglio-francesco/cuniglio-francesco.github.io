@@ -1,0 +1,68 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<style>
+body {
+background-color: lightblue;
+}
+ 
+h1 {
+color: blue;
+text-align: center;
+font-family: Verdana;
+font-size: 50px;
+}
+ 
+p {
+font-family: verdana;
+font-size: 30px;
+}
+li{
+display:inline;
+float:left;
+}
+li a {
+display:block;
+color:blue;
+text-align:center;
+padding: 15px 16px;
+text-decoration:none;
+}
+li a:hover {
+background-color:burlywood;
+}
+p2 {
+font-family: verdana;
+font-size: 30px;
+}
+img {
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+ 
+</style>
+</head>
+ 
+<ul>
+<li><a href="Amsterdam.HTML">Introduzione</a></li>
+<li><a href="Geografia.HTML">Geografia</a></li>
+<li><a href="Economia.HTML">Economia</a></li>
+<li><a href="Storia.HTML">Storia</a></li>
+</ul><br>
+ 
+<title>Amsterdam</title>
+ 
+<h1>Storia</h1>
+
+<p>
+    Nel XII secolo, la costruzione di una diga sul fiume Amstel diede il nome al villaggio: Amsteldam.
+    Nel 1358, formò parte della Lega anseatica e iniziò a prevalere come centro del commercio del Nord d'Europa.
+    Carlo V di Spagna ereditò i Paesi Bassi dalla nonna Maria, del ducato di Borgogna. La dipendenza dalla Spagna e la scoperta di un altro continente aprirono delle nuove opportunità commerciali per Amsterdam, che divenne, dopo Lisbona, il porto più importante del mondo.
+     Si specializzò nel commercio del grano e delle armi e divenne il centro del commercio delle spezie provenienti dall'India, quando il Re del Portogallo aprì una delegazione in città.
+</p>
+
+
+ 
+</Body>
+</html>
