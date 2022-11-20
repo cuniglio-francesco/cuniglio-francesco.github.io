@@ -1,0 +1,68 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<style>
+body {
+background-color: lightblue;
+}
+ 
+h1 {
+color: blue;
+text-align: center;
+font-family: Verdana;
+font-size: 50px;
+}
+ 
+p {
+font-family: verdana;
+font-size: 30px;
+}
+li{
+display:inline;
+float:left;
+}
+li a {
+display:block;
+color:blue;
+text-align:center;
+padding: 15px 16px;
+text-decoration:none;
+}
+li a:hover {
+background-color:burlywood;
+}
+p2 {
+font-family: verdana;
+font-size: 30px;
+}
+img {
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+ 
+</style>
+</head>
+ 
+<ul>
+<li><a href="Amsterdam.HTML">Introduzione</a></li>
+<li><a href="Geografia.HTML">Geografia</a></li>
+<li><a href="Economia.HTML">Economia</a></li>
+<li><a href="Storia.HTML">Storia</a></li>
+</ul><br>
+ 
+<title>Amsterdam</title>
+ 
+<h1>Economia</h1>
+
+<p>
+    I Paesi Bassi hanno la 16a più grande economia del mondo, 
+    e si classifica in 10a PIL (nominale) pro capite. Come membro fondatore dell'Unione europea, monete e banconote in euro sono stati in uso dal 1 ° gennaio 2002. 
+    I Paesi Bassi sono la patria di molti celebri marche a livello mondiale tra cui Unilever, Heineken, Royal Dutch Shell, la Philips e la DSM. E 'anche sede di uno dei più grandi giacimenti di gas naturale nel mondo. Slochteren,
+     il giacimento di gas nel nord ha portato il totale delle entrate di 159 miliardi di euro a partire dalla metà degli anni 1970. NV Nederlandse Gasunie si vanta di essere il più grande partenariato pubblico-privato a livello mondiale.
+</p>
+
+
+ 
+</Body>
+</html>
