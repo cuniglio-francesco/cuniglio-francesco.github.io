@@ -45,7 +45,7 @@ margin-right: auto;
 </head>
  
 <ul>
-<li><a href="Amsterdam.HTML">Introduzione</a></li>
+<li><a href="index.html">Introduzione</a></li>
 <li><a href="Geografia.HTML">Geografia</a></li>
 <li><a href="Economia.HTML">Economia</a></li>
 <li><a href="Storia.HTML">Storia</a></li>
